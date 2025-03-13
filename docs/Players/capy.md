@@ -12,12 +12,6 @@ tags:
 ## Identity
 * Formal name: CapyKing10
 * Mainly goes by: Capy
-* In game usernames
-  * DuhDeadlyDurk
-  * The_Mapper
-  * justmedurk
-  * itsmedurk
-  * abudhabifan
 
 ## Contacts
 * Discord: `capyking10.`
@@ -28,12 +22,7 @@ tags:
 * March 25th, 2023.
 
 ## Accomplishments
-* Built 555 bedrock logos at spawn (screenshots can be found in [The 555's discord server](https://dsc.gg/the555))
-* Created anti-imperials (got nuked)
-* Became co-owner of the 555
-* Created endless inventories
-* created a spawn ocean in the summer of 2022
-* Blew up akit if stuff at spawn
+
 
 ## Skin
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=b4af04a914e761ee&model=classic&theta=30&phi=21&time=90&width=100&height=200)
