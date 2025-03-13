@@ -28,7 +28,7 @@ As mentioned above, Saviors had some massive good looking bases such as:
 - Iced_Cave
 - Wavybody
 - Vertrica08
-- Elotion
+- elOTION
 - CaT_345
 - Aitana
 - Maccatackz
