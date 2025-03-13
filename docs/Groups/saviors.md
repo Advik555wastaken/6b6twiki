@@ -37,8 +37,6 @@ As mentioned above, Saviors had some massive good looking bases such as:
 - lava67
 - AddEdit
 - Hekt0r44566
-## Recent History
-Saviors was in its top form around late 2024, after 2 massive 555 stashes getting greifed, saviors was getting a massive influx of members and interest. They countinued to do well however the owner
-at the time (Iced Cave) was becoming less and less active, leading to many internal issues. Then on 8th of March 2025 ** EVERY ** saviors base was greifed, by 555 and 104,
-currently it is not known exactly how but many point towards one of the high council being an insider. This led to the deletion of saviors discord.
+## History
+
   
