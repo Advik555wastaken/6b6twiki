@@ -18,7 +18,6 @@ tags:
 - Built a large sky logo at spawn
 - Taught many new players on 6b6t to become good players.
 - Over 300 members in discord, in less than 2 months gained over 200 members
-- One of the largest clan right now, with 11 total clan members
 ## Bases
 - Melon clan had several bases, member, recruit and owner, currently there are no images available, will update this soon.
 ## Notable Members
