@@ -20,50 +20,7 @@ tags:
 ## Minecraft Account List
 * Advik123 (main account)
 * [Advik555wastaken](https://namemc.com/profile/Advik555wastaken.1) (premium account)
-* [_Advik555](https://namemc.com/_Advik555)
 
-ㅤ
-* ........_.......
-* ._0
-* 321kivda
-* 8b8t.org
-* ABCDEFGHKLMNOP
-* advik213
-* Adick555
-* Advik000
-* Advik1000
-* Advik111
-* Advik222
-* Advik333
-* advik555
-* Advik55S
-* Advik5SS
-* Advik777
-* advikbot
-* advikbot
-* Advikl23
-* AdvikS55
-* AdvikSS5
-* AdvikSSS
-* Angelvik555
-* DuhDeadlyDirk
-* elf_bitchard
-* Firtree1000
-* karnage4556
-* kivda321
-* kivda555
-* kokos_odpandem_
-* paseuta
-* patosogamar
-* patosogamero
-* QuaintBeast9600
-* Quebastie
-* rootbear20
-* scarelmejor1943
-* seasnail413
-* T1ger97
-* thansanlo
-* youknowmyalt
 
 ## Accomplishments
 - Founder of [The 555](../Groups/555)
