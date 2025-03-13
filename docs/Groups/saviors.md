@@ -25,18 +25,18 @@ As mentioned above, Saviors had some massive good looking bases such as:
 - Saviors Recruit base (also no image)
 - Saviors member valk (no image)
 ## Notable Members
-- Iced_Cave (founder)
-- Wavybody ( saviors high council member and crystal PVP'r
-- Vertrica08 (saviors high council member and greifer)
-- Elotion (saviors high council member and greifer)
-- CaT_345 (saviors member and builder)
-- Aitana (saviors last owner, after iced quit due to greifs.)
-- Maccatackz (saviors member)
-- PaxGreifs (Saviors trusted recruit who played a huge role in getting the discord to 1000members using many bots)
-- ryk_cbaool (saviors trusted recruit who also played a huge role in getting the discord to 1000 members using bots)
-- lava67 (saviors recruit who planned building megabase but saviors got destroyed before it could happen)
-- AddEdit (saviors recruit who helped alot in recruitbase by building and artist)
-- Hekt0r44566 ( saviors trusted recruit, insided 555 and leaked 15k dubstash, builder, created automatic delivery bot that was never used due to saviors getting destroyed, and played a huge role in getting the discord to 1000 members)
+- Iced_Cave
+- Wavybody
+- Vertrica08
+- Elotion
+- CaT_345
+- Aitana
+- Maccatackz
+- PaxGreifs
+- ryk_cbaool
+- lava67
+- AddEdit
+- Hekt0r44566
 ## Recent History
 Saviors was in its top form around late 2024, after 2 massive 555 stashes getting greifed, saviors was getting a massive influx of members and interest. They countinued to do well however the owner
 at the time (Iced Cave) was becoming less and less active, leading to many internal issues. Then on 8th of March 2025 ** EVERY ** saviors base was greifed, by 555 and 104,
