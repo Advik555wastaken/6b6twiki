@@ -49,7 +49,6 @@ tags:
 * Cumgang
 * 6b6t Collectables
 * 6b6t times
-* DonFuer 6b6t
 * [Project 104](../Groups/104.md)
 
 ## Inactive Groups
@@ -58,5 +57,6 @@ tags:
 * TTD 
 * Pyromaniac's Fireflies
 * The Fallen empire
-* The Fallen kingdom
 * Fellowship of farmers
+* DonFuer 6b6t
+* Cheese Clan
