@@ -13,11 +13,13 @@ tags:
 ## Founding information
 * Founding date: Unknown
 * Founded by: 
-  * Iced_cave
+  * patosogamer
+  * PollyNeedCrack
+  * DataDrop
 ## Accomplishments
-- Greifed a lot of bases and clans
-- Built some of the coolest bases
-- Reaching 1000 discord members and 30 clan members prior to its deletion
+- Griefed multiple bases and stashes
+- Built some of the cool bases
+- Reaching 1000 discord members
 
 ## Bases
 As mentioned above, Saviors had some massive good looking bases such as:
