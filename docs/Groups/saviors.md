@@ -11,14 +11,14 @@ tags:
 ## Discord (Private discord, made public by Aitana):
 * `discord.gg/XJ9G7kHcra`
 ## Founding information
-* Founding date: Unknown
+* Founding date: Mid-2024
 * Founded by: 
   * patosogamer
   * PollyNeedCrack
   * DataDrop
 ## Accomplishments
 - Griefed multiple bases and stashes
-- Built some of the cool bases
+- Built some cool bases
 - Reaching 1000 discord members
 
 ## Bases
