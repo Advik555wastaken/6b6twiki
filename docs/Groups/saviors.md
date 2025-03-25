@@ -22,7 +22,7 @@ tags:
 - Reaching 1000 discord members
 
 ## Bases
-As mentioned above, Saviors had some massive good looking bases such as:
+As mentioned above, Saviors had some good looking bases such as:
 - Saviors Main Base space valk (image currently not available)
 - Saviors Recruit base (also no image)
 - Saviors member valk (no image)
