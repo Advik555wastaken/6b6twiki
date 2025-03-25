@@ -36,17 +36,14 @@ tags:
 * Discovered an [auth](https://www.youtube.com/watch?v=rZHIQOuM0tM) exploit with [Sharedlines](../Players/sharedlines.md) in mid 2023 when 6b6t first switched over to Folia software
 * Discovered a boat fly bypass (Currently not public)
 * Discovered a lag exploit
-* Insided a lot of clans/groups (most of the time ended up griefing their bases)
+* Insided a lot of clans/groups
 
 ## Skin
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=dd1b53c1fb347121&model=classic&theta=30&phi=21&time=90&width=100&height=200)
 
 ## Groups
 * Mapart Empire (Otherwise known as The Hentai Empire)
-* [Shulkergang](../Groups/shulkergang.md) 
-* [Hive](../Groups/hive.md)
 * [The 555](../Groups/555.md)
-* Cumgang
 * 6b6t Collectables
 * 6b6t times
 * [Project 104](../Groups/104.md)
@@ -54,6 +51,7 @@ tags:
 ## Inactive Groups
 * Exodus (Disbanded)
 * Anti-Imps (Disbanded)
+* Cumgang (Disbanded)
 * TTD 
 * Pyromaniac's Fireflies
 * The Fallen empire
