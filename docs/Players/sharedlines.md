@@ -25,6 +25,7 @@ tags:
 
 ### Groups
 * Laggang member (Disbanded)
+* 104 owner
 * [Hive](../Groups/hive) member
 * former Exodus clan member
 * former 6b6t Times owner
