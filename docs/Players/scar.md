@@ -23,7 +23,6 @@ tags:
 
 ## Minecraft Account list
 * [scarthebest1943](https://namemc.com/profile/scarthebest1943.1)
-* [6Builders6Tools](https://namemc.com/profile/6Builders6Tools.1)
 * [N0C0M](https://namemc.com/profile/N0C0M.1)
 * 6b6t_Times
 * _popbop
