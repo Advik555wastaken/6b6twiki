@@ -33,7 +33,7 @@ tags:
 * Became one of the most well known griefers on 6b
 * Became one of the largest 6b6t content creators 
 * Discovered an [auth](https://www.youtube.com/watch?v=rZHIQOuM0tM) exploit with [Sharedlines](../Players/sharedlines.md) in mid 2023 when 6b6t first switched over to Folia software
-* Discovered a boat fly bypass (Currently not public)
+* Discovered multiple boatfly bypasses
 * Discovered a lag exploit
 * Insided a lot of clans/groups
 
@@ -41,7 +41,7 @@ tags:
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=dd1b53c1fb347121&model=classic&theta=30&phi=21&time=90&width=100&height=200)
 
 ## Groups
-* Mapart Empire (Otherwise known as The Hentai Empire)
+* Mapart Empire
 * [The 555](../Groups/555.md)
 * 6b6t Collectables
 * 6b6t times
@@ -51,7 +51,7 @@ tags:
 * Exodus (Disbanded)
 * Anti-Imps (Disbanded)
 * Cumgang (Disbanded)
-* TTD 
+* TTD (Disbanded)
 * Pyromaniac's Fireflies
 * The Fallen empire
 * Fellowship of farmers
