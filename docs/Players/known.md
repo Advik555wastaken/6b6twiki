@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
-sidebar_label: 'User template'
-title: 'User template'
+sidebar_label: 'Known'
+title: 'The Biggest Known Person'
 tags:
   - Getting started
   - Contributing
@@ -9,22 +9,20 @@ tags:
 
 
 ## Identity
-* Name: user01XDlol
-* Mainly goes by: user
-* Discord: `user01xdlol.`
-* [YouTube](https://www.youtube.com/)
-* [NameMC](https://namemc.com/)
+* Name: 1nject/svxl
+* Mainly goes by: Big Namer
+* Discord: `freemasonary`
+* [YouTube](https://www.youtube.com/@HarmfulASF)
+* [NameMC](https://namemc.com/svxl)
 
 ## Joindate
-insert joindate here
+2012
 
 ## Accomplishments
-* Put accomplishments here
+* Invented Cpvp and Bedpvp
 
 ## Skin
 (skin from namemc, format: `![Skin](skin PNG url)`)
 
 ## Clans
-- usee clan
-- example clan
-- etc.
+- Logang
