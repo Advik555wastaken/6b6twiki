@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 sidebar_label: 'scarthebest1943'
-title: 'scarthebest1943'
+title: 'scarthebest1943 (NN)'
 tags:
   - Player
   - 6b6t
