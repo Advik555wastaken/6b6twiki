@@ -26,14 +26,11 @@ tags:
 * TSR
 * La Hermandad
 
-## Bases
-* Medieval Base in saviors 
+## Bases 
 * 2nd place in 2024 christmas build competition with the base named “The Anarchist’s Wonderland”
 * TSRMANIA (Tsr main base)
 
 ## Build Pictures 
 ![christmasbase](../../static/img/players/etienne200296/christmas_base.png)
 ![christmasbase2](../../static/img/players/etienne200296/christmasbase_2.png)
-![midevilbase](../../static/img/players/etienne200296/midevil_base.png)
-![midevilbase2](../../static/img/players/etienne200296/midevilbase_2.png)
 ![tsrbase](../../static/img/players/etienne200296/tsr_base.png)
