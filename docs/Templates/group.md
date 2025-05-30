@@ -1,41 +1,40 @@
 ---
 sidebar_position: 1
-sidebar_label: 'Group template'
-title: 'Group template'
+sidebar_label: 'TSR Clan'
+title: 'TSR'
 tags:
   - Getting started
   - Contributing
 ---
 
-This is a template that shows how you should write a page about a group
-**NOTES:**
-* Abongza is not a real group
+The largest and best clan on TSR!
 
 ## Identity
-* Name: Abongza
-* Abbreviation: ABZ
-* Discord: `dsc.gg/oogabooga`
+* Name: TSR
+* Abbreviation: TSR
+* Discord: `discord.gg/tsrclan`
 
 ## History
-* Founding date: 15 November 2023
+* Founding date: 04/03/24
 * Founded by: 
-  * user01XDlol
-  * CapyKing10
+  * Bermani
+  * slay_dev
 * Founding Story: 
-
+TSR is the fastest-growing clan on 6b6t, evolving from a small group into a thriving community of over 4000 members united by a common purpose. With a vast network of bases, stashes, and a skilled PvP team, we proudly embody strength, pride, and a lasting presence on the server.
 ## Accomplishments
-- Built a megabase called Abongagazaza *(With optional link to megabase)*
-- Won a pvp tournament
+- Made huge bases
+- The best kitbot in the 6b6t
+- The fastest growing clan on 6b6t
+- Made an whole economy within the discord server
+- Its own chatbot called "Royal Burner"
 
 ## Bases
-- Abongza 1 (link to base wiki page if possible)
-- Abongagazaza
+- https://tsr-clan.org/our-builds/
 
 ## Notable Members
-- user01XDlol (founder)
-- CapyKing10 (founder)
-- Fortniteballsowner96 (high member)
+- Slay (founder and dev)
+- Bermani (founder)
+- pyro (high member)
 
 ## Logo / Banner:
-![logo](../../static/img/groups/abongza/logo.png)
-![banner](../../static/img/groups/abongza/banner.png)
+https://tsr-clan.org/wp-content/uploads/2024/11/tsr-logo.png
