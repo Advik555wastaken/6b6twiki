@@ -1,30 +1,27 @@
 ---
-title: 'Player template'
-description: The template for player pages. This description will show up in discord embeds and tag pages
+title: 'Abottomlesspit'
 tags:
-  - Getting started
-  - Contributing
+  - Player
 ---
 
-This template gives an outline for player pages. Modify if needed.
-
 ## Identity
-* Username: `user01XDlol_`
-* Mainly goes by: user
-* Discord: `user01xdlol.`
-* [YouTube](https://www.youtube.com/)
-* [NameMC](https://namemc.com/)
+* Username: `Abottomlesspit`
+* Mainly goes by: Abottomlesspit
+* Discord: `themaparts`
+* [YouTube](https://www.youtube.com/abotmicz3)
+* [NameMC](https://namemc.com/profile/Abottomlesspit.2)
 
 ## Joindate
-9 semptember 2009
+11/28/2024
 
 ## Accomplishments
-* Put accomplishments here
-* Must be specific (not a generic "griefed many bases and people")
+* Griefed Bogob bot stash
+* Took part in gold island 2
 
 ## Skin
-(skin from namemc, format: `![Skin](skin PNG url)`)
+![Skin]https://s.namemc.com/3d/skin/body.png?id=e93429dc9a56b1a8&model=classic&theta=38&phi=13&time=90&width=100&height=200
 
 ## Clans
-- usee clan
-- example clan
+- NCR
+- 104
+- Crashout (inactive)
