@@ -3,7 +3,7 @@ const fs = require("fs");
 
 const mapartsFolderPath = path.join(__dirname, `../../static/img/maparts`);
 const docsFolderPath = path.join(__dirname, `../../docs`);
-const mapSize = { width: 800, height: 800 };
+const mapSize = { width: 60, height: 60 };
 const metadata = `---
 title: "Maparts gallery"
 description: The mapart gallery of the wiki
@@ -26,8 +26,8 @@ const styles = {
     display: "inline-block",
     padding: 0,
     margin: 0,
-    "max-width": mapSize.width + "px",
-    "max-height": mapSize.height + "px",
+    "max-width": mapSize.width + "vw",
+    "max-height": mapSize.height + "vh",
   },
   mapartContainer: {
     display: "inline-block",
