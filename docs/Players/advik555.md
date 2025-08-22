@@ -1,4 +1,6 @@
 ---
+sidebar_position: 1
+sidebar_label: 'Advik555'
 title: 'Advik555'
 tags:
   - Player
