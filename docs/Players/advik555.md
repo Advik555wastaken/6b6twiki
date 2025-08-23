@@ -1,4 +1,6 @@
 ---
+sidebar_position: 1
+sidebar_label: 'Advik555'
 title: 'Advik555'
 tags:
   - Player
@@ -27,11 +29,11 @@ tags:
 - Found a restart dupe named 555.2 dupe
 - Placed millions of obsidian and crying obsidian blocks on the server
 - Created a 10,000x10,000 map of 6b6t spawn
-- Created the 6b6t wiki
+- Founded this 6b6t wiki
 - Discovered the /name exploit (aka white name exploit)
 - Discovered a 120 BPS+ elytra fly config
-- Griefed and [insided a very large amount of clans](https://pastebin.com/cNPbhrjx), especially those against 555
-- Commanded the contruction of the largest logo on 6b6t
+- Griefed and [insided many clans](https://pastebin.com/cNPbhrjx), especially those against 555
+- Guided the contruction of the largest logo on 6b6t
 
 ## Clans
 - [555](../Groups/555.md)

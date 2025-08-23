@@ -32,7 +32,6 @@ tags:
 - Discovered 6 dupes with [**hokindo9000**](./hokindo9000.md) called IKEA dupes (non exhaustive list)
   - [Boat chest dupe](https://www.youtube.com/watch?v=ubI4pJ35Gvk)
   - Chunk dupe
-
 - Coded most of the boat chest dupe auto modules and is a developer of the [IKEA Addon](https://github.com/Nooniboi/Public-Ikea)
 - Owns the largest 6b6t bot (6b6t Stats, 67 servers) and created the largest database of player messages, joins, and leaves, using the in-game account `kazwqi`
 - Discovered 2 bypasses to the teleport exploit discovered by **Poutselas**
@@ -47,7 +46,8 @@ tags:
 
 
 ## Clans
-- LagGang
+- 104
+- LagGang 
 - IKEA
 - [Shulker Gang](../Groups/shulkergang)
 - [The Hive](../Groups/hive)
