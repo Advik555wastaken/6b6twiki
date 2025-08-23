@@ -1,6 +1,5 @@
 ---
 title: 'qbasty'
-sidebar_position: 1
 tags:
   - Player
   - Contributor

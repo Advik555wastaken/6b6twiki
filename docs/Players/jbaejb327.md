@@ -1,5 +1,4 @@
 ---
-sidebar_position: 15
 sidebar_label: 'jbaejb327'
 title: 'jbaejb327'
 tags:

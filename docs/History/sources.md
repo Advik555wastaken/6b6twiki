@@ -1,6 +1,5 @@
 ---
 sidebar_position: 9
-sidebar_label: 'Sources'
 title: 'Sources'
 tags:
   - History
