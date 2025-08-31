@@ -3,17 +3,7 @@
   "redirects": [
     {
       "source": "/maps",
-      "destination": "/maps/"
-    }
-  ],
-  "rewrites": [
-    {
-      "source": "/maps/",
-      "destination": "http://cube.node.plutonodes.com:25000/"
-    },
-    {
-      "source": "/maps/:path*",
-      "destination": "http://cube.node.plutonodes.com:25000/:path*"
+      "destination": "https://6b6tmap.vercel.app/"
     }
   ]
 }
