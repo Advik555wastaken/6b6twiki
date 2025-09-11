@@ -8,8 +8,8 @@ tags:
 
 ## Identity
 * Name/IGN: jbaejb327
-* Mainly goes by: CivicVox
-* Alts: CivicVox
+* Mainly goes by: jbaejb327
+* Alts: CivicVox, Breakingyobrain, Cosmical_Yapper (spambot)
 
 ## Contacts:
 * Discord: `civicvox`
@@ -21,8 +21,7 @@ tags:
 
 ## Accomplishments
 * Joined and sustained loyalty to The 555 since November 2024
-* Built obsidian logos for The 555 at spawn
-* Created Multiple bots to prevent nuking and spamming, for invites, and a kitbot
+* Created Multiple bots to prevent nuking and spamming, for invites, and kit delivery.
 * Created a Clan Named "VoxNet" (which eventually was absorbed into Cosmical Clan)
 
 ## Skin
@@ -31,7 +30,8 @@ tags:
 ## Clans
 ### Current
 - [555](../Groups/555.md) (Member)
-- Cosmical Clan (Co-Owns)
+- Cosmical (Co-Owns)
 - 6b6t Union (Cosmical Clan Representative)
+- NCR (Recruit)
  ### Past
  - VoxNet (Previously Owned, was absorbed into Cosmical Clan)
