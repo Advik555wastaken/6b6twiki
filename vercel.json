@@ -1,0 +1,9 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "redirects": [
+    {
+      "source": "/maps",
+      "destination": "https://6b6tmap.vercel.app/"
+    }
+  ]
+}
