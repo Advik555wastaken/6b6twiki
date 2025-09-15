@@ -11,7 +11,7 @@ Built using [Docusaurus](https://docusaurus.io/) and this [tutorial](https://you
 ## Fixing a page
 1. Look for the page you want to correct(it should be in the "docs" folder)
 2. Use any text editor to fix it (If you are just adding info or fixing a mistake you shouldnt have to mess with formatting/learn how to use md but using [This](https://markdownlivepreview.com/) website is still benificial
-3. Create a ppull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+3. Create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 4. Wait for the admins of the 6b6t wiki to review it
 
 # 6b6t Times Discord
