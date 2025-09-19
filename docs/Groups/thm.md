@@ -24,7 +24,7 @@ tags:
 
 ## Bases
 - Kitbot Island
-- THM base 2
+- Kitbot Village
 
 ## Notable Members
 - mingailas (Founder)
@@ -35,8 +35,12 @@ tags:
 - FloppaDude (Highway Major)
 - Leon170709 (Highway Mayor)
 - VladimirLemon (Highway Mayor)
-- fain (Highway Mayor)
+- fainecio (Highway Mayor)
 - Wide_Cat (Highway Journeyman)
 
 ## Logo
+#### Discord Logo
 ![logo1](../../static/img/groups/thm/obby.png)
+
+#### Offical Mapart (made by Kyr0Zen)
+![mapart](../../static/img/groups/thm/Mapart.png)
