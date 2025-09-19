@@ -11,29 +11,33 @@ tags:
 * Abbreviation: THM
 * Discord: `discord.gg/thm`
 
-
 ## History
 * Founding date: 12 September 2024
-* Founded by: 
-  * mingails
+* Founded by:
+  * mingailas
 
 ## Accomplishments
 - Found the [TNT Dupe](https://youtu.be/-Rlrsxl9OX4)
-- Extended all Cardianl directions to 1 million 
-- Created they're own Kitbot
+- Extended all cardinal directions to 1 million
+- Extended all diagonals to 500k
+- Made a highway map actively tracking the length of all highways dug and paved
+- Created their own Kitbot
 
 ## Bases
 - Kitbot Island
 - Kitbot Village
+- THM Tree
+- THM Mountain
+- THM Valley
 
 ## Notable Members
 - mingailas (Founder)
 - xm4nn_ (Current owner)
 - Ryazor (Highway Prince)
-- Ooranges (Creater of Kitbot, Highway Major)
+- Ooranges (Creator of Kitbot, Highway Major)
 - Kyr0Zen (Highway Major)
 - FloppaDude (Highway Major)
-- Leon170709 (Highway Mayor)
+- Leon_170709 (Highway Mayor)
 - VladimirLemon (Highway Mayor)
 - fainecio (Highway Mayor)
 - Wide_Cat (Highway Journeyman)
