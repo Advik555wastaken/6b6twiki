@@ -23,10 +23,20 @@ tags:
 - Created they're own Kitbot
 
 ## Bases
-- THM base 1
+- Kitbot Island
 - THM base 2
 
 ## Notable Members
 - mingailas (Founder)
 - xm4nn_ (Current owner)
-- Ooranges (Creater of Kitbot)
+- Ryazor (Highway Prince)
+- Ooranges (Creater of Kitbot, Highway Major)
+- Kyr0Zen (Highway Major)
+- FloppaDude (Highway Major)
+- Leon170709 (Highway Mayor)
+- VladimirLemon (Highway Mayor)
+- fain (Highway Mayor)
+- Wide_Cat (Highway Journeyman)
+
+## Logo
+![logo1](../../static/img/groups/thm/obby.png)
