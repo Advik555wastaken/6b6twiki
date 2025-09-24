@@ -1,5 +1,5 @@
 (function() {
-  // Track a pageview
+  // Function to send an event to the serverless proxy
   function sendEvent(eventName = 'pageview') {
     fetch('/api/analytics', {
       method: 'POST',
@@ -16,6 +16,6 @@
   // Send a pageview immediately
   sendEvent();
 
-  // Optional: track clicks or other events
+  // Optional: track clicks on the page
   document.addEventListener('click', () => sendEvent('click'));
 })();
