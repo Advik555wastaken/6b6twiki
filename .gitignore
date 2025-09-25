@@ -4,7 +4,6 @@
 # Production
 /build
 /docs/Players/index.md
-/docs/maparts.md
 
 # Generated files
 .docusaurus
