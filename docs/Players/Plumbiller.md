@@ -18,7 +18,7 @@ tags:
 
 ## Accomplishments
 
-* Plumbiller is the creator of the NotSus Network. A sophisticated bot program coded in Javascript that runs mineflayer. With Plumbiller's NotSusManager he's able to control 10.000 different alts, from NotSus0000 to notSus9999. The registration proccess of that vast amount of accounts took Plumbiller between 6 to 8 months to accomplish. NotSus are well know for flooding the 6b6t chat but the NotSusManager program allows Plumbiller to individually control each bot with custom commands such as goto, jump, drop, openchest, chat, etc. or control them globally ot once. NotSusManager also provides a way to locate live where every single bot is at, and the contents of their inventories.
+* Plumbiller is the creator of the NotSus Network. A bot network coded in Javascript that runs mineflayer. With Plumbiller's NotSusManager he is able to control 10.000 different alts, from NotSus0000 to notSus9999. The registration proccess of the accounts took Plumbiller between 6 to 8 months to accomplish. NotSus is well known for flooding the 6b6t chat but the NotSusManager program allows Plumbiller to individually control each bot with custom commands such as goto, jump, drop, openchest, chat, etc. or control them globally ot once. NotSusManager also provides a way to locate live where every single bot is at, and the contents of their inventories.
 * Screenshots of the NotSusManager app are public in [https://imgur.com/a/NqyStE9](https://imgur.com/a/NqyStE9)
 
 ## Skin
