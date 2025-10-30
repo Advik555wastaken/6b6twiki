@@ -48,8 +48,6 @@ This template gives an outline for player pages. Modify if needed.
 
 <img width="1598" height="1034" alt="image" src="https://github.com/user-attachments/assets/03048250-6927-4ed4-8a95-137694e2c208" />
 
-<img width="4175" height="2367" alt="image" src="https://github.com/user-attachments/assets/e0c6f157-ee99-426b-a0af-33d2920eeb08" />
-
 <img width="2100" height="2100" alt="image" src="https://github.com/user-attachments/assets/493816e0-f360-4653-b4de-ced845b4605e" />
 
 <img width="2900" height="2900" alt="image" src="https://github.com/user-attachments/assets/9b52e3a2-7c08-4517-8969-707ed0974b17" />
