@@ -1,8 +1,8 @@
 ---
 title: 'Kyr0Zen'
-description: The template for player pages. This description will show up in discord embeds and tag pages
+description: 
 tags:
-  - Contributing
+  - players
 ---
 
 ## Identity
