@@ -6,13 +6,8 @@ tags:
 
 ## Identity
 * Username: `Kyr0Zen`
-* Mainly goes by: `Kyro`
-* Discord: `Kyr0Zen`
-* [YouTube](https://www.youtube.com/@Kyr0Zen)
-* [NameMC](https://namemc.com/profile/Kyr0Zen.1)
-
-## Joindate
-2 June 2025
+* Mainly goes by: `Kyro` or `kyrozen`
+* Joindate: September 9th, 1999
 
 ## Accomplishments
 * Became a high rank in The Highway Men, he is also known as "The King's Chosen one".
