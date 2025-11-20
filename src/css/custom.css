@@ -10,6 +10,23 @@
 }
 
 
+
+.navbar-icon img {
+  height: 24px;
+  width: 24px;
+}
+
+/* Equal spacing but closer together */
+.navbar-icon {
+  margin-right: 10px !important; /* default is too large, reduce it */
+}
+
+/* Add extra space BEFORE theme toggle */
+.navbar__item.navbar__item--theme-toggle {
+  margin-left: 6px !important;
+}
+
+
 .navbar-icon {
   display: flex;
   align-items: center;
