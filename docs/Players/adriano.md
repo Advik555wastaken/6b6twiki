@@ -5,13 +5,10 @@ tags:
 ---
 
 ## Identity
-* Name: `Adr14n0`
-* Discord: adr14n0
-* [NameMC](https://namemc.com/profile/Adr14n0.2)
-
-## Joindate
-4/18/2022
-
+* Username: `Adr14n0`
+* Mainly goes by: adriano
+* Joindate: April 18th, 2022
+* 
 ## Accomplishments
 * Griefed [Shulkergang's](../Groups/shulkergang.md) megabase
 * Griefed bd71legend's base
@@ -24,4 +21,4 @@ tags:
 * 555 (demoted)
 * Imperials (demoted)
 * Arosti (disbanded)
-* Shulkergang (archived)
+* Shulkergang (deleted)
