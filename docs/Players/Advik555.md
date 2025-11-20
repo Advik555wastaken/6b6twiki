@@ -8,16 +8,18 @@ tags:
 ## Identity
 * Full username: Advik555
 * Mainly goes by: Advik
+* Joindate: May 8th, 2022
 
 ## Contacts:
 * Discord: `_advik555`
-* [YouTube: "6b6t gameplay"](https://www.youtube.com/channel/UCoEpKXImySV-CEHe9pLEfjg/)
+* [YouTube](https://www.youtube.com/channel/UCoEpKXImySV-CEHe9pLEfjg/)
+* [Namemc](https://namemc.com/profile/Advik555wastaken.1)
 
 ## Minecraft Account List
-* Advik123 (cracked account)
+* Advik123 (main cracked account)
 * [Advik555wastaken](https://namemc.com/profile/Advik555wastaken.1) (current premium account)
 * [Advik555](https://namemc.com/Advik555) (old premium account) (no access)
-* youknowmyalt (an old main)
+* youknowmyalt (an old cracked main)
 * this user has an extensive account list that can be viewed [here](https://pastebin.com/2MAHm4yA)
 
 ## Accomplishments
@@ -56,6 +58,7 @@ tags:
 - FRM (declared war on 555, griefed twice and nuked)
 - Exileon (nuked)
 - Saviors reborn (gained ownership of server, put on public display)
+- Full list avaibable [here](https://pastebin.com/cNPbhrjx)
 
 ## Skin
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=8378f43535d8333d&model=classic&theta=30&phi=21&time=90&width=100&height=200)
