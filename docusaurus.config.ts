@@ -126,7 +126,7 @@ const config = {
 
     // Vercel icon
     {
-      href: 'https://vercel.com/',
+      href: 'https://vercel.com/advik555wastaken-projects/6b6t-wiki/deployments',
       position: 'right',
       className: 'navbar-icon',
       html: `
