@@ -104,6 +104,14 @@ const config = {
     src: 'img/icons/logo.jpg',
   },
   items: [
+
+    //Edit icon
+    {
+      href: 'https://github.com/Advik555wastaken/6b6twiki/edit/main/docs/',
+      html: '<span class="navbar-edit-link">✏️ Edit this page</span>',
+      position: 'right',
+    },
+    
     // GitHub icon
     {
       href: 'https://github.com/Advik555wastaken/6b6twiki',
