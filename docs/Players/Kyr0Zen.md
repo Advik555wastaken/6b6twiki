@@ -1,6 +1,5 @@
 ---
 title: 'Kyr0Zen'
-description: 
 tags:
   - players
 ---
