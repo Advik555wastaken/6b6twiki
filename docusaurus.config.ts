@@ -96,19 +96,44 @@ const config = {
     // Replace with your project's social card
     image: 'img/icons/logo.jpg',
     navbar: {
-      title: 'The 6b6t wiki',
-      logo: {
-        alt: '6b6t wiki logo',
-        src: 'img/icons/logo.jpg',
-      },
-      items: [
-        {
-          href: 'https://github.com/Advik555wastaken/6b6twiki/',
-          label: 'GitHub',
-          position: 'right',
-        },
-      ],
+  title: 'The 6b6t wiki',
+  logo: {
+    alt: '6b6t wiki logo',
+    src: 'img/icons/logo.jpg',
+  },
+  items: [
+    // GitHub icon
+    {
+      href: 'https://github.com/Advik555wastaken/6b6twiki',
+      position: 'right',
+      className: 'navbar-icon',
+      html: `
+        <img src="/img/icons/github.svg" alt="GitHub" />
+      `,
     },
+
+    // Discord icon
+    {
+      href: 'https://discord.gg/Em4AAcjXvD',
+      position: 'right',
+      className: 'navbar-icon',
+      html: `
+        <img src="/img/icons/discord.svg" alt="Discord" />
+      `,
+    },
+
+    // Vercel icon
+    {
+      href: 'https://vercel.com/',
+      position: 'right',
+      className: 'navbar-icon',
+      html: `
+        <img src="/img/icons/vercel.svg" alt="Vercel" />
+      `,
+    },
+  ],
+},
+
     footer: {
       style: 'dark',
       links: [
