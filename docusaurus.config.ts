@@ -37,14 +37,14 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: './sidebars.js',
-          routeBasePath: '/',
-          editUrl: "https://github.com/Advik555wastaken/6b6twiki/edit/main/docs/",
-          editLocalizedFiles: false,
-          showLastUpdateAuthor: true,
-          showLastUpdateTime: true,
-          editCurrentVersion: true,
-        },
+  sidebarPath: './sidebars.js',
+  routeBasePath: '/',
+  editUrl: "https://github.com/Advik555wastaken/6b6twiki/edit/main/docs/",
+  showLastUpdateAuthor: true,
+  showLastUpdateTime: true,
+  editCurrentVersion: true,
+},
+
         theme: {
           customCss: './src/css/custom.css',
         },
