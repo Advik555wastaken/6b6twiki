@@ -10,7 +10,7 @@ tags:
 * Mainly goes by: Advik
 * Joindate: May 8th, 2022
 
-## Contacts:
+## Socials
 * Discord: `_advik555`
 * [YouTube](https://www.youtube.com/channel/UCoEpKXImySV-CEHe9pLEfjg/)
 * [Namemc](https://namemc.com/profile/Advik555wastaken.1)
