@@ -4,6 +4,12 @@
  * work well for content-centric websites.
  */
 
+.theme-doc-markdown img[src*="namemc.com"] {
+  width: 80px !important;
+  height: auto !important;
+}
+
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #e3d800;
