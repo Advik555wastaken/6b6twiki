@@ -22,7 +22,7 @@ tags:
 * Winner of the 2025 6b6t Halloween logo competition.
 
 ## Skin
-![Skin](https://namemc.com/skin/321fcaad88651711)
+![Skin](https://s.namemc.com/3d/skin/body.png?id=321fcaad88651711&model=slim&theta=30&model=classic&theta=30&phi=21&time=90&width=100&height=200)
 
 ## Clans
 - The Highway Men
