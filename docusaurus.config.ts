@@ -114,7 +114,7 @@ const config = {
 
     // Discord icon
     {
-      href: 'https://discord.gg/Em4AAcjXvD',
+      href: 'https://discord.gg/gmaE2Bc7YU',
       position: 'right',
       className: 'navbar-icon',
       html: `
