@@ -15,4 +15,4 @@ Built using [Docusaurus](https://docusaurus.io/) and this [tutorial](https://you
 4. Wait for the admins of the 6b6t wiki to review it
 
 # 6b6t Times Discord
-[Join our discord](https://discord.gg/rMdJaDDaBD)
+[Join our Discord server](https://discord.gg/rMdJaDDaBD)
