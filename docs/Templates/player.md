@@ -11,16 +11,17 @@ This template gives an outline for player pages. Modify if needed.
 ## Identity
 * Username: `user01XDlol_`
 * Mainly goes by: user
+* Joindate: September 9th, 1999
+
+## Socials
 * Discord: `user01xdlol.`
 * [YouTube](https://www.youtube.com/)
 * [NameMC](https://namemc.com/)
 
-## Joindate
-9 semptember 2009
 
 ## Accomplishments
 * Put accomplishments here
-* Must be specific (not a generic "griefed many bases and people")
+* Built the tallest tree
 
 ## Skin
 (skin from namemc, format: `![Skin](skin PNG url)`)
@@ -28,3 +29,4 @@ This template gives an outline for player pages. Modify if needed.
 ## Clans
 - usee clan
 - example clan
+- Abongza clan
