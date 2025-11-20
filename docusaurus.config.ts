@@ -49,10 +49,11 @@ const config = {
         docs: {
   sidebarPath: './sidebars.js',
   routeBasePath: '/',
-  editUrl: ({ docPath }) =>
-    `https://github.com/Advik555wastaken/6b6twiki/edit/main/docs/${docPath}`,
+  editUrl: "https://github.com/Advik555wastaken/6b6twiki/edit/main/docs/",
+  editLocalizedFiles: false,
   showLastUpdateAuthor: true,
   showLastUpdateTime: true,
+},
 
   
   editCurrentVersion: true,
