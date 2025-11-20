@@ -5,22 +5,23 @@ tags:
 ---
 
 ## Identity
-* Name: `assed_`
-* Alts: PussyControl, MisterExcalibur
+* Userame: `assed_`
+* Mainly goes by: assed
 
-## Contacts
+
+## Socials
 * Discord: `assed_`
+* [Youtube](https://www.youtube.com/@notengomouse)
 
 ## Joindate
 * 6b6t: February 27th, 2023.
 
-
 ## Accomplishments
 - Reached nether border traveling by hand from 0 0
 - Top gold hoes crafted till october 2023
-- Completed all potions, throwable potions, persistant potions and arrows when was still full-vanilla
+- Completed all potions, throwable potions, persistant potions and arrows while being full-vanilla
 - Conserved 2 untouched end strongholds
-- Placed 90000+ bedrock blocks to create the most safe oasis-base in the server
+- Placed 90,000+ bedrock blocks to create the most safe oasis-base in the server
 - Reached all world borders and left a sign in all of them
 
 ## Skin
