@@ -8,7 +8,11 @@ tags:
 * Username: `Adr14n0`
 * Mainly goes by: adriano
 * Joindate: April 18th, 2022
-* 
+
+## Socials
+* Discord: adr14n0
+* [NameMC](https://namemc.com/profile/Adr14n0.2)
+  
 ## Accomplishments
 * Griefed [Shulkergang's](../Groups/shulkergang.md) megabase
 * Griefed bd71legend's base
