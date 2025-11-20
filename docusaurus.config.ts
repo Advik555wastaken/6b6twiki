@@ -47,14 +47,16 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: './sidebars.js',
-          routeBasePath: '/', // Serve the docs at the site's root
-          editUrl: ({ locale, docPath }) => {
-            return `https://github.com/Advik555wastaken/6b6twiki/edit/main/docs/${docPath}`;
-          },
-          showLastUpdateAuthor: true,
-          showLastUpdateTime: true,
-        },
+  sidebarPath: './sidebars.js',
+  routeBasePath: '/',
+  editUrl: ({ docPath }) =>
+    `https://github.com/Advik555wastaken/6b6twiki/edit/main/docs/${docPath}`,
+  showLastUpdateAuthor: true,
+  showLastUpdateTime: true,
+
+  
+  editCurrentVersion: true,
+},
         theme: {
           customCss: './src/css/custom.css',
         },
