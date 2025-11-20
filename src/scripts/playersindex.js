@@ -3,14 +3,14 @@ const path = require("path");
 const fs = require("fs");
 
 const playersFolderPath = path.join(__dirname, `../../docs/Players`);
+
 const skinSize = { width: 180, height: 432 };
+
 const metadata = `---
 title: "Players"
 ---
 `;
 
-// To add gradient
-// backgroundImage: "linear-gradient(to top, #0c0c0c, rgba(0, 0, 0, 0))"
 const styles = {
   img: {
     display: "inline-block",
@@ -32,57 +32,60 @@ let players = "";
 const unsafeCharacters = new Set(["<", ">", "'", '"', "&"]);
 function isUnsafe(text) {
   for (const char of text) {
-    return unsafeCharacters.has(char);
+    if (unsafeCharacters.has(char)) return true;
   }
-
   return false;
 }
 
-function getSkinUrl(markdown, overrideSize = true) {
-  const urls = [];
-
+function getSkinUrl(markdown) {
   const regex = /!\[[^\]]*\]\(([^)]+)\)/g;
-  while ((match = regex.exec(markdown)) !== null) {
-    urls.push(match[1]);
-  }
+  let match;
 
-  for (const url of urls) {
-    if (url.startsWith("https://s.namemc.com/3d/"))
-      return overrideSize
-        ? url.replace(
-            `width=100&height=200`,
-            `width=${skinSize.width}&height=${skinSize.height}`
-          )
-        : url;
+  while ((match = regex.exec(markdown)) !== null) {
+    const url = match[1];
+
+    if (url.startsWith("https://s.namemc.com/3d/")) {
+      // Split base + params
+      const [base, paramString] = url.split("?");
+      const params = new URLSearchParams(paramString);
+
+      // Force uniform size
+      params.set("width", skinSize.width);
+      params.set("height", skinSize.height);
+
+      return `${base}?${params.toString()}`;
+    }
   }
+  return null;
 }
 
 for (const file of fs.readdirSync(playersFolderPath)) {
-  if ((!file.endsWith(".md") && !file.endsWith(".mdx")) || file == "index.md")
+  if ((!file.endsWith(".md") && !file.endsWith(".mdx")) || file === "index.md")
     continue;
 
   const filename = file.substring(0, file.lastIndexOf("."));
+  const raw = fs.readFileSync(`${playersFolderPath}/${file}`).toString();
+  const { data, content } = matter(raw);
 
-  const { data, content } = matter(
-    fs.readFileSync(`${playersFolderPath}/${file}`).toString()
-  );
   const username = data.title || data.sidebar_label;
 
   if (username) {
     if (isUnsafe(username)) continue;
 
     let skinUrl = getSkinUrl(content);
-    if (!skinUrl) skinUrl = `https://www.mc-heads.net/body/${username}`;
+
+    if (!skinUrl) {
+      skinUrl = `https://www.mc-heads.net/body/${username}?width=${skinSize.width}&height=${skinSize.height}`;
+    }
 
     players += `
-    <a style={${JSON.stringify(
-      styles.playerContainer
-    )}} href="/Players/${filename}">
-      <center>
-        <h2>${username}</h2>
-      </center>
-      <img style={${JSON.stringify(styles.img)}} src="${skinUrl}"/>
-    </a>\n`;
+<a style={${JSON.stringify(styles.playerContainer)}} href="/Players/${filename}">
+  <center>
+    <h2>${username}</h2>
+  </center>
+  <img style={${JSON.stringify(styles.img)}} src="${skinUrl}" />
+</a>
+`;
   }
 }
 
