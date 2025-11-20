@@ -1,0 +1,8 @@
+.editTop {
+  margin-bottom: 1rem;
+  text-align: right;
+}
+.editTop a {
+  font-weight: bold;
+  color: #007acc;
+}
