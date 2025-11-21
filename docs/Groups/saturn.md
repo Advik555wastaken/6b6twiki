@@ -11,7 +11,7 @@ tags:
 
 ## History
 * Founding date: Aug 10th, 2022
-* 6b6t founding date: Aug 30th, 2023
+* 6b6t founding date: May 30th, 2023
 * Founded by:
   * [azedev](../Players/azedev.md)
 
