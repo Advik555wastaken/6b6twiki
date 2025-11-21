@@ -7,8 +7,8 @@ tags:
 
 ## Identity
 * Full username: Tryfastv16
-* Mostly Known As: TryFast
-* Joindate: December 18th, 2024
+* Mainly Known As: TryFast
+* Joindate: December 21st, 2024
 
 ## Contact
 * Discord: `bs.pk`
