@@ -34,7 +34,7 @@ tags:
 |The Imperials|Felixland v1|❌|Griefed
 |The Imperials|Felixland v2|❌|Discontinued
 |The Imperials|Felixland v3|⚠️|Classified|![Felixland](../../static/img/players/tryfast/2025-07-18_16.45.11.png)
-|Solo|Personal Stash|✅|In Use
+|Solo|Personal Stash|✅|In Use|![Statue 1](../../static/img/players/tryfast/2025-04-24_20.26.38.png)
 |Solo|Tsazsert|🚧|Under Construction
 
 
@@ -49,8 +49,6 @@ tags:
 
 ## Screenshots
 ![Statue 1](../../static/img/players/tryfast/2025-04-24_20.26.38.png)
-┗ render of the bedrock statue
-![Statue 2](../../static/img/players/tryfast/2025-03-02_07.47.03.png)
 ┗ render of the bedrock statue
 ![Ted](../../static/img/players/tryfast/2025-03-31_10.31.59.png)
 ┗ me and DropTedd (ex-imp member)
