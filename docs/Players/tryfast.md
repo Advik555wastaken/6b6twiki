@@ -48,7 +48,7 @@ tags:
 - The Imperials | `Currently Quaestor`
 
 ## Screenshots
-![Statue 1](../../static/img/players/tryfast/2025-04-24_20.26.38.png)
+![Statue 2](../../static/img/players/tryfast/2025-03-02_07.47.03.png)
 ┗ render of the bedrock statue
 ![Ted](../../static/img/players/tryfast/2025-03-31_10.31.59.png)
 ┗ me and DropTedd (ex-imp member)
