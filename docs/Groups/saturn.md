@@ -19,14 +19,13 @@ tags:
 - Ending various clans (e.g; JaponAce, Zealandia, NAC)
 - Co-founding [neverdies.me client](https://neverdies.me/)
 - Creating NotAClient
-- Creating a megabase with 20~ members (2023)
+- Creating a megabase with 20~ members in 2023
 - Hosting a pvp tournament with said base members for ranks ([2023](https://www.youtube.com/watch?v=JzsQ-lfhcNc))
-- Griefed Advik on his own account in 2023 (he leaked his password)
-- Extensively auth camping and using auth overseer to prevent cracked players from joining
+- Griefed Advik on his own account in 2023 (he sent fulgur his password on purpose)
+- Auth camped and used an auth overseer to prevent cracked players from joining
 - Discovering and developing a coord exploit involving withers and end portals in early 2025
 - Participating in the Elysium grief
-- Creating a botnet of 7k .Saturn cracked bots within 2 days
-- Using said botnet to bot 6b6t up to a new record player count (712)
+- Creating a botnet of 7k .Saturn cracked bots to bot 6b6t up to a new record player count (712)
 - Creation of Mossad Mod
 
 ## Bases
