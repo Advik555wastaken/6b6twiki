@@ -54,3 +54,4 @@ tags:
 ![Ted](../../static/img/players/tryfast/2025-03-31_10.31.59.png)
 ![Prot](../../static/img/players/tryfast/2025-04-20_18.21.08.png)
 ## Skin
+![Skin](https://s.namemc.com/3d/skin/body.png?id=b84ac9a32c374ef1&model=classic&theta=30&phi=21&time=90&width=600&height=800)
