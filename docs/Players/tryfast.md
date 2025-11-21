@@ -31,6 +31,7 @@ tags:
 |Block Brigade|End Base|❌|Griefed      
 |Block Brigade|Recruit Base|❌|Self-Griefed
 |The Imperials|Invictus (Base-X)|❌|Griefed
+![Invictus](../../static/img/players/tryfast/image1.png)
 |The Imperials|Felixland v1|❌|Griefed
 |The Imperials|Felixland v2|❌|Discontinued
 |The Imperials|Felixland v3|⚠️|Classified
@@ -58,7 +59,5 @@ tags:
 ┗ me and DropTedd (ex-imp member)
 ![Prot](../../static/img/players/tryfast/2025-04-20_18.21.08.png)
 ┗ double trouble
-![Invictus](../../static/img/players/tryfast/image1.png)
-┗ invictus render
 ## Skin
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=b84ac9a32c374ef1&model=classic&theta=30&phi=21&time=90&width=100&height=200)
