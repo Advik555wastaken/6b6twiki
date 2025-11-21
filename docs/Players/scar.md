@@ -1,21 +1,19 @@
 ---
-title: 'scarthebest1943'
+title: 'Sc5r'
 tags:
   - Player
   - Contributor
 ---
 
 ## Identity
-* Formal name: `scarthebest1943`
+* Username: `Sc5r` (previously Scarthebest1943)
 * Mainly goes by: Scar
+* Joindate: December 1st, 2022
 
-## Contacts
+## Socials
 * Discord: `.scarrr`
 * [YouTube]( https://youtube.com/@verification-failed)
 * [NameMC](https://namemc.com/profile/scarthebest1943.1)
-
-## Joindate
-* 6b6t: December 1st, 2022
 
 ## Minecraft Account list
 * [scarthebest1943](https://namemc.com/profile/scarthebest1943.1)
