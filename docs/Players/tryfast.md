@@ -33,7 +33,7 @@ tags:
 |The Imperials|Invictus (Base-X)|❌|Griefed ![Invictus](../../static/img/players/tryfast/image1.png)
 |The Imperials|Felixland v1|❌|Griefed
 |The Imperials|Felixland v2|❌|Discontinued
-|The Imperials|Felixland v3|⚠️|Classified
+|The Imperials|Felixland v3|⚠️|Classified ![Felixland](../../static/img/players/tryfast/2025-07-18_16.45.11.png)
 |Solo|Personal Stash|✅|In Use
 |Solo|Tsazsert|🚧|Under Construction
 
@@ -52,8 +52,6 @@ tags:
 ┗ render of the bedrock statue
 ![Statue 2](../../static/img/players/tryfast/2025-03-02_07.47.03.png)
 ┗ render of the bedrock statue
-![Felixland](../../static/img/players/tryfast/2025-07-18_16.45.11.png)
-┗ chilling at felixland
 ![Ted](../../static/img/players/tryfast/2025-03-31_10.31.59.png)
 ┗ me and DropTedd (ex-imp member)
 ![Prot](../../static/img/players/tryfast/2025-04-20_18.21.08.png)
