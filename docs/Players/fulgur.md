@@ -18,8 +18,8 @@ tags:
 * Griefed JaponAce, Zealandia, Imperials (Elysium, DropTedd's stash, Sefa's bases, among others), NAC (bd71legend, Celestialis, Protest)
 * One of the [Saturn](../Groups/saturn.md) leaders
 * Found a [coord exploit](https://www.youtube.com/watch?v=nJ6i9TcUgZ8) involving withers and end portals in Early 2025 with [azedev](../Players/azedev.md)
-* Creating a botnet of 7k .Saturn cracked accounts with [azedev](../Players/azedev.md) and [Wildy](../Players/Wildy.md)
-* Botting 6b6t with [azedev](../Players/azedev.md) and [Wildy](../Players/Wildy.md) to set a new player record (712)
+* Creating a botnet of 7k .Saturn cracked accounts with [azedev](../Players/azedev.md) and [Wildy](../Players/wildy.md)
+* Botting 6b6t with [azedev](../Players/azedev.md) and [Wildy](../Players/wildy.md) to set a new player record (712)
 * Extensively auth camping cracked players and viewing players in the auth server
 * Creating the neverdiesapi
 * Developing 6b6tDB since 2024
