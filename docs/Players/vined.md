@@ -7,6 +7,7 @@ tags:
 ## Identity
 * Username: `vined_`
 * Mainly goes by: `vined`
+* Joindate: August 27th, 2022
 * Alt accounts:
   - Norway
   - vined_on_top
@@ -19,12 +20,10 @@ tags:
   - azklo
   - \_IKEAAv1__ up to \_IKEAAv9__
 
-## Contacts:
+## Socials:
 * Discord: `vined_`
-* NameMC: https://namemc.com/profile/vined_.1
+* [NameMC](https://namemc.com/profile/vined_.1)
 
-## Join Date
-* 6b6t: August 7, 2022.
 
 ## Accomplishments
 - Most player kills (2,408,921 kills on account **vined_** as of 1/5/2024)
