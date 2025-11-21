@@ -47,6 +47,6 @@ tags:
 - The 6b6t Times>>> `Journalist`
 
 ## Screenshots
-![yes](static/img/players/tryfast/2025-04-24_20.26.38.png)
+![yes](../../static/img/players/tryfast/2025-04-24_20.26.38.png)
 
 ## Skin
