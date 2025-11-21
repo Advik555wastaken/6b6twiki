@@ -5,8 +5,8 @@ tags:
 ---
 
 ## Identity
-* Formal name: `North`
-* Mainly known as: North
+* Username: ``
+* Mainly goes by: North
 
 ## Contacts
 * Discord: `nerdsinc.`
