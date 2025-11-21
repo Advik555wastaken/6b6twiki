@@ -17,7 +17,7 @@ tags:
 - Solo Extended some of Nether Ring-Roads
 - Made a Giant Bedrock Statue Of Liberty
 - Griefed BSB (Back Street Boys)
-- Self-Griefed Block Brigade's Second Stash
+- Self-Griefed Block Brigade's Second Stash (Recruit Base)
 - Griefed Anti-Imps with the French Imps
 - Helped in Construction of many bases
 - Developed a custom Meteor Client Addon for The Imperials
