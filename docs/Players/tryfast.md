@@ -1,5 +1,5 @@
 ---
-title: 'Tryfastv16'
+title: 'TryFast'
 tags:
   - Player
 ---
