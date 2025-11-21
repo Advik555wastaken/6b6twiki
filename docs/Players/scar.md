@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Identity
-* Username: `Sc5r` (previously Scarthebest1943)
+* Formal name: `scarthebest1943`
 * Mainly goes by: Scar
 * Joindate: December 1st, 2022
 
