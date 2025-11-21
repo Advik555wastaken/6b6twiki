@@ -41,10 +41,11 @@ tags:
 
 
 ## Groups
-- BSB >>> `Griefed`
-- Block Brigade >>> ```Resigned```
-- The Imperials >>> `Currently Quaestor`
-- The 6b6t Times>>> `Journalist`
+- BSB | `Griefed`
+- Block Brigade | `Resigned`
+- The 6b6t Times | `Journalist`
+- KGB Clan | `мл сержант`
+- The Imperials | `Currently Quaestor`
 
 ## Screenshots
 ![Statue 1](../../static/img/players/tryfast/2025-04-24_20.26.38.png)
