@@ -8,12 +8,12 @@ tags:
 ## Identity
 * Username: `wavybody`
 * Mainly goes by: wav, wavy
+* May 31th, 2024
+
+## Socials
 * Discord: `wav_nuke`
 * [YouTube](https://www.youtube.com/@fentanylsellers)
 * [NameMC](https://namemc.com/profile/wavybody)
-
-## Joindate
-March 2024
 
 ## Accomplishments
 * Leader of [Saviors, Eclipse, Tesseract (second one)](../Groups/saviors.md)
