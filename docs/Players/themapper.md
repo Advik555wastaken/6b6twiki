@@ -7,12 +7,12 @@ tags:
 ## Identity
 * Formal name: TheMapper
 * Mainly goes by: mapper
+* May 5th, 2022.
+
+# Socials
 * Discord: `thelazymapper`
 * [YouTube](https://www.youtube.com/@TheLazyMapper1556)
 * [NameMC](https://nl.namemc.com/profile/DuhDeadlyDurk.1)
-
-## Joindate
-* May 5th, 2022.
 
 
 ## Accomplishments
