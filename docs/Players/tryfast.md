@@ -26,16 +26,16 @@ tags:
 ## Bases
 |Clan|Base|Status|Notes|Render                    
 |-|-|-|-|-
-|BSB|Commuinity Base|❌|Griefed
-|BSB|Recruit Base|❌|Griefed
-|Block Brigade|End Base|❌|Griefed      
-|Block Brigade|Recruit Base|❌|Self-Griefed
+|BSB|Commuinity Base|❌|Griefed|-
+|BSB|Recruit Base|❌|Griefed|-
+|Block Brigade|End Base|❌|Griefed|-      
+|Block Brigade|Recruit Base|❌|Self-Griefed|-
 |The Imperials|Invictus (Base-X)|❌|Griefed|![Invictus](../../static/img/players/tryfast/image1.png)
-|The Imperials|Felixland v1|❌|Griefed
-|The Imperials|Felixland v2|❌|Discontinued
+|The Imperials|Felixland v1|❌|Griefed|-
+|The Imperials|Felixland v2|❌|Discontinued|-
 |The Imperials|Felixland v3|⚠️|Classified|![Felixland](../../static/img/players/tryfast/2025-07-18_16.45.11.png)
 |Solo|Personal Stash|✅|In Use|![Statue 1](../../static/img/players/tryfast/2025-04-24_20.26.38.png)
-|Solo|Tsazsert|🚧|Under Construction
+|Solo|Tsazsert|🚧|Under Construction|-
 
 
 
