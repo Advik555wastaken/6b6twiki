@@ -30,8 +30,7 @@ tags:
 |BSB|Recruit Base|❌|Griefed
 |Block Brigade|End Base|❌|Griefed      
 |Block Brigade|Recruit Base|❌|Self-Griefed
-|The Imperials|Invictus (Base-X)|❌|Griefed
-![Invictus](../../static/img/players/tryfast/image1.png)
+|The Imperials|Invictus (Base-X)|❌|Griefed ![Invictus](../../static/img/players/tryfast/image1.png)
 |The Imperials|Felixland v1|❌|Griefed
 |The Imperials|Felixland v2|❌|Discontinued
 |The Imperials|Felixland v3|⚠️|Classified
