@@ -5,11 +5,10 @@ tags:
 ---
 
 ## Identity
-* Username: `MeganByte`
+* Username: `MeganByte_`
 * Mainly goes by: Megan
 
 ## Contacts
-* Discord: `daswe2_38298`
 * [Youtube](https://www.youtube.com/@MeganByte-kc4vk)
 * [GitHub](https://github.com/MeganByte72)
 
@@ -25,23 +24,33 @@ tags:
 * Started Back Street Boys (clan) before handing it over to `bot_mob`.
 * Built many things for projects and build competitions for Saviors and trilogy.
 * Created the schematics for the original obsidian spawn logo for Saviors and helped build many other obsidian spawn logos.
-* Her build at the Saviors recruit base inspired the creation of a Japanese-themed base
+* Her build at the Saviors recruit base inspired the creation of a Japanese-themed base.
+* Griefed Blackout completly after building hexaout [.](https://www.youtube.com/watch?v=UFRUwzNhLuw)
+* Griefed Tesseract completly [.](https://www.youtube.com/watch?v=q-Ry9VtLWH4)
+* Griefed Trilogy [.](https://www.youtube.com/watch?v=jJoIdHfpHwQ)
+* Helped 3kderp start Builders Without Borders and built a large amount at the first two bases.
 * **Coding projects**
-  * Bot control systems
-  * Client for beta minecraft
+  * Bot control systems.
+  * Client for beta minecraft.
+  * Software to manage player associations [.](https://github.com/MeganByte72/player-associations-manager-pink?tab=readme-ov-file)
+  * OSINT tool for minecraft accounts for detecting insiders. (Currently private)
 
 ## Groups
 * Saviors
 * Watchmen
 * Imperials
 * Trilogy
+* Tesseract
 * The Highway Men
 * Blackout
+* Builders Without Borders
 
 ## Groups Founded 
 * Midnight Club (Disbanded) 
 * Back Street Boys (Disbanded)
 * Sakura (Disbanded)
+* **Assisted Or Aided in Founding**
+  * Builders Without Borders (Active)
 
 ## Images (Bot Control System)
 ![bot control system](../../static/img/players/meganbyte_/bot_control_system.png)

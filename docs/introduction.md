@@ -7,7 +7,7 @@ slug: /
 # Welcome to the 6b6t Wiki!
 ## The go-to source for information regarding 6b6t.org
 
-This wiki was created on **April 2nd, 2024**. Please join our [Discord server](https://discord.gg/rMdJaDDaBD) and feel free to make some contributions to our [GitHub](https://github.com/15ggd/6b6twiki) repository. If your modifications get accepted they will be implemented, more info in the FAQ section below.
+This wiki was created on **April 2nd, 2024**. Please join our [Discord server](https://discord.gg/rMdJaDDaBD) and feel free to make some contributions to our [GitHub](https://github.com/Advik555wastaken/6b6twiki) repository. If your modifications get accepted they will be implemented, more info in the FAQ section below.
 
 ## Frequently Asked Questions
 ---
